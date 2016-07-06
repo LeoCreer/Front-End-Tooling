@@ -1,0 +1,10 @@
+{
+  "name": "start-app",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {}
+}
